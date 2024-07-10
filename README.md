@@ -1,1 +1,0 @@
-# ru-trezorstart.github.io
